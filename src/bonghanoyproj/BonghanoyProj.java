@@ -11,7 +11,7 @@ public class BonghanoyProj {
         System.out.print("Enter your name: ");
         String name = sc.nextLine();
         
-        System.out.print("Enter brth year: ");
+        System.out.print("Enter birth year: ");
         int byear = sc.nextInt();
         
         System.out.println("\nHello "+name+" your age is "+(2025-byear));
